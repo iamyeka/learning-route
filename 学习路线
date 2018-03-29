@@ -96,6 +96,28 @@ ii.	消费者
  
 iii.	联调
 与Spring整合
+
+m) mybatis
+i. 熟悉配置文件所有标签含义
+ii. 了解缓存机制
+iii. 学习分页相关，拦截插件
+
+n）elasticsearch
+i. 增删查改索引
+ii. 分词插件
+iii. 模糊匹配
+
+o) kafka
+i. 了解客户端基本使用
+ii. 了解实现机制
+
+p) redis
+i. 基本使用
+ii. 发布订阅
+
+r) docker
+i. 原理
+ii. 结合kubernetes搭建应用发布平台
  
 
 
