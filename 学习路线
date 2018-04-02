@@ -119,6 +119,10 @@ r) docker
 i. 原理
 ii. 结合kubernetes搭建应用发布平台
  
-
+s) 分布式系统架构
+i. 高并发
+ii. 高可用
+iii. 反向代理
+iiii. 负载均衡
 
 
